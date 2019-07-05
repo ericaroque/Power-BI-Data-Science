@@ -1,17 +1,3 @@
-#*****************************************************************************
-#
-#                         Machine Learning com Linguagem R
-#
-#                               Data Science Academy
-#
-#                       Prevendo a Inadimplência de Clientes
-#
-#*****************************************************************************
-
-# Definindo a pasta de trabalho
-getwd()
-setwd("D:/DSA/PowerBI-DataScience/Cap10")
-
 #################### Pacotes do R ####################
 
 # Instalando os pacotes para o projeto (os pacotes precisam ser instalados apenas uma vez)
